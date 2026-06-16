@@ -10,10 +10,6 @@
 
 ### `Ing. Civil Informática y Telecomunicaciones` ☁️ `Aspirante a Cloud Engineer`
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00CA4E&center=true&vCenter=true&width=600&lines=Infraestructura+%26+Ciberseguridad;Memorista+GTI+%E2%80%94+Redes+%26+Infra;Cloud+%7C+DevOps+%7C+Automatización;Construyendo+con+disciplina+y+constancia" alt="Typing SVG" />
-</p>
-
 <!-- ===== SOCIAL / CONTACTO ===== -->
 <p>
   <a href="https://ismedina.vercel.app/">
