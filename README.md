@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- ===== HEADER / BRAND ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,50:393939,100:00CA4E&height=180&section=header&text=%3C%20ISM%20%2F%3E&fontColor=efefef&fontSize=70&fontAlignY=35&desc=ENFOQUE%20%E2%80%A2%20DISCIPLINA%20%E2%80%A2%20CONSTANCIA&descAlignY=58&descSize=18&descColor=00CA4E" width="100%" alt="Ignacio Santiago Medina" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,50:393939,100:00CA4E&height=180&section=header&text=%3C%20ISM%20%2F%3E&fontColor=efefef&fontSize=70&fontAlignY=35&desc=ENFOQUE%20%E2%80%A2%20DISCIPLINA%20%E2%80%A2%20CONSTANCIA&descAlignY=58&descSize=18&descColor=00CA4E" width="100%" alt="Ignacio Santiago Medina" /> -->
 
 <!-- macOS traffic-light dots, igual al portafolio -->
 🔴 🟡 🟢
 
 # Hola, soy Ignacio Santiago Medina 👋
 
-### `Estudiante Ing. Civil Informática y Telecomunicaciones` ☁️ `Aspirante a Cloud Engineer`
+### `Ing. Civil Informática y Telecomunicaciones` ☁️ `Aspirante a Cloud Engineer`
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00CA4E&center=true&vCenter=true&width=600&lines=Infraestructura+%26+Ciberseguridad;Memorista+GTI+%E2%80%94+Redes+%26+Infra;Cloud+%7C+DevOps+%7C+Automatización;Construyendo+con+disciplina+y+constancia" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 
 ```yaml
 nombre:       Ignacio Santiago Medina
-alias:        igna  →  < ISM />
+alias:        igna
 ubicación:    Santiago, Chile 🇨🇱
 estudios:     Ing. Civil Informática y Telecomunicaciones (UDP)
 rol:          Memorista GTI · Redes & Infraestructura
@@ -47,11 +47,11 @@ enfoque:      Cloud Engineering · Ciberseguridad · DevOps
 lema:         ENFOQUE • DISCIPLINA • CONSTANCIA
 ```
 
-- ☁️ &nbsp;Me apasiona la **infraestructura cloud**, la **automatización** y la **ciberseguridad** ofensiva/defensiva.
+<!-- - ☁️ &nbsp;Me apasiona la **infraestructura cloud**, la **automatización** y la **ciberseguridad**.
 - 🐳 &nbsp;Disfruto diseñar arquitecturas con **microservicios**, **Docker** y **Ansible**.
 - 🔐 &nbsp;Estudio **hacking ético**, **criptografía** y seguridad en redes en mi tiempo libre.
 - 🧠 &nbsp;También exploro **Data Science**, **IA** y **algoritmos** (metaheurísticas, programación dinámica).
-- ✍️ &nbsp;Escribo sobre lo que aprendo en mi [**blog**](https://ismedina.vercel.app/blog).
+- ✍️ &nbsp;Escribo sobre lo que aprendo en mi [**blog**](https://ismedina.vercel.app/blog). -->
 
 ---
 
@@ -171,9 +171,7 @@ Siempre abierto a colaborar en proyectos de **Cloud**, **Infraestructura** y **C
   <img src="https://img.shields.io/badge/Escríbeme-FF605C?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contacto" />
 </a>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00CA4E,50:393939,100:1e1e1e&height=120&section=footer" width="100%" alt="footer" />
+<!-- <br/><br/> -->
 
 <sub><code>&lt;/&gt;</code> created by <b>igna</b></sub>
 
