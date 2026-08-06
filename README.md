@@ -8,7 +8,7 @@
 
 # Hola, soy Ignacio Santiago Medina 👋
 
-### `Ing. Civil Informática y Telecomunicaciones` ☁️ `Aspirante a Cloud Engineer`
+### `Ing. Civil Informática y Telecomunicaciones` ☁️ `Cloud Engineer / DevOps Junior`
 
 <!-- ===== SOCIAL / CONTACTO ===== -->
 <p>
@@ -34,12 +34,13 @@
 ## 🧑‍💻 Sobre mí
 
 ```yaml
-nombre:       Ignacio Santiago Medina
+nombre:       Ignacio Santiago Medina Díaz
 alias:        igna
 ubicación:    Santiago, Chile 🇨🇱
-estudios:     Ing. Civil Informática y Telecomunicaciones (UDP)
-rol:          Memorista GTI · Redes & Infraestructura
-enfoque:      Cloud Engineering · Ciberseguridad · DevOps
+estudios:     Ing. Civil Informática y Telecomunicaciones (UDP, 2021 – 2026)
+rol_actual:   Memorista en Infraestructura & Redes @ CMDIC
+enfoque:      Cloud Engineering (Azure/AWS) · IaC · FinOps · DevOps
+objetivo:     Primera posición formal como Cloud Engineer / DevOps Junior
 lema:         ENFOQUE • DISCIPLINA • CONSTANCIA
 ```
 
@@ -51,35 +52,62 @@ lema:         ENFOQUE • DISCIPLINA • CONSTANCIA
 
 ---
 
+## 💼 Experiencia
+
+**Memorista en Infraestructura & Redes** — Compañía Minera Doña Inés de Collahuasi (CMDIC)
+<sub>Ene 2026 – Jun 2026 · Santiago, Chile</sub>
+- Desarrollé Infraestructura como Código (IaC) con **Terraform** para el aprovisionamiento estandarizado de recursos en **Azure**, incorporando **Key Vault**, **NSG** bajo mínimo privilegio y auto-shutdown programado.
+- Apliqué **FinOps** sobre recursos catastrados: activación de Azure Hybrid Benefit en 9 VMs y homologación de reservas para reducir el costo de la infraestructura híbrida.
+- Ejecuté depuración de recursos huérfanos y apagado programado de PAW, disminuyendo la superficie de ataque y el gasto cloud innecesario.
+
+**Full-Stack Developer** — Freelance
+<sub>Jul 2025 – Ago 2025 · Santiago, Chile</sub>
+- Desplegué una plataforma web corporativa sobre infraestructura **serverless en Cloudflare** (CDN, HTTPS y despliegue continuo desde Git).
+
+**Development GenAI Intern** — BotMan AI
+<sub>Dic 2024 – Feb 2025 · Santiago, Chile</sub>
+- Automaticé en **Python** un pipeline de QA que convierte grabaciones de interfaz en casos de prueba ejecutables, integrando LLMs vía API para su ejecución desatendida.
+
+---
+
 ## 🛠️ Stack & Herramientas
 
 <div align="center">
 
-#### Lenguajes
+#### Cloud
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+#### IaC, DevOps & Contenedores
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+#### Lenguajes & Automatización
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-#### Cloud, DevOps & Infraestructura
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-#### Ciberseguridad
+#### Redes & Ciberseguridad
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1e1e1e?style=flat-square&logo=cisco&logoColor=00CA4E)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Criptografía](https://img.shields.io/badge/Criptografía-1e1e1e?style=flat-square&logo=letsencrypt&logoColor=00CA4E)
+![Nmap](https://img.shields.io/badge/Nmap-1e1e1e?style=flat-square&logo=nmap&logoColor=00CA4E)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 
-#### Data, IA & Testing
+#### Bases de Datos & Testing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 </div>
 
@@ -139,6 +167,16 @@ Modelo de **ML** que predice el rango de precio (Económico / Gama Media / Gama 
     <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-00CA4E?style=for-the-badge&logo=github&logoColor=1e1e1e" alt="Ver todos los proyectos" />
   </a>
 </div>
+
+---
+
+## 🎓 Formación & Certificaciones
+
+- ☁️ **Bootcamp AWS Cloud Computing & DevOps** <sub>*en curso*</sub> — IAM, EC2, S3, VPC/subnetting, fundamentos de Kubernetes. Preparando **AWS Certified Cloud Practitioner**.
+- ☁️ **Google Cloud Skills Boost** — Google Cloud Fundamentals: Core Infrastructure · Essential Google Cloud Infrastructure: Foundation.
+- 🐧 **Linux & Seguridad** — Introducción a Linux (Hack4u Academy) · Kali Linux 101 · Fundamentos en Cloud: Seguridad, Networking, AI.
+- 🌐 **Cisco Networking Academy** — Introduction to Cybersecurity · Python Essentials 1.
+- 🏫 **Ingeniería Civil Informática y Telecomunicaciones**, Universidad Diego Portales <sub>2021 – 2026</sub> — Trabajo de título: *"Modelo de Inteligencia Operativa y Gobernanza para la Eficiencia de Servicios en Infraestructura Híbrida en Entorno Minero"*.
 
 ---
 
