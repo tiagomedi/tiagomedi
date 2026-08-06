@@ -207,8 +207,7 @@ Siempre abierto a colaborar en proyectos de **Cloud**, **Infraestructura** y **C
 
 <!-- <br/><br/> -->
 
-<a href="https://ismedina.vercel.app">
-  <sub><code>&lt;/&gt;</code> created by <b>igna</b></sub>
-</a>
+<sub><code>&lt;/&gt;</code> created by <b>igna</b></sub>
+
 
 </div>
