@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/santiagomedinad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ignacio.mediaz@gmail.com">
+  <a href="mailto:ignacio.mediaz@outlook.com">
     <img src="https://img.shields.io/badge/Email-FF605C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.credly.com/users/ignacio-santiago-medina">
@@ -37,10 +37,10 @@
 nombre:       Ignacio Santiago Medina Díaz
 alias:        igna
 ubicación:    Santiago, Chile 🇨🇱
-estudios:     Ing. Civil Informática y Telecomunicaciones (UDP, 2021 – 2026)
-rol_actual:   Memorista en Infraestructura & Redes @ CMDIC
+estudios:     Ing. Civil Informática y Telecomunicaciones
+# rol_actual:   Memorista en Infraestructura & Redes @ CMDIC
 enfoque:      Cloud Engineering (Azure/AWS) · IaC · FinOps · DevOps
-objetivo:     Primera posición formal como Cloud Engineer / DevOps Junior
+# objetivo:     Primera posición formal como Cloud Engineer / DevOps Junior
 lema:         ENFOQUE • DISCIPLINA • CONSTANCIA
 ```
 
@@ -201,12 +201,14 @@ Modelo de **ML** que predice el rango de precio (Económico / Gama Media / Gama 
 
 Siempre abierto a colaborar en proyectos de **Cloud**, **Infraestructura** y **Ciberseguridad**.
 
-<a href="mailto:ignacio.mediaz@gmail.com">
+<a href="mailto:ignacio.mediaz@outlook.com">
   <img src="https://img.shields.io/badge/Escríbeme-FF605C?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contacto" />
 </a>
 
 <!-- <br/><br/> -->
 
-<sub><code>&lt;/&gt;</code> created by <b>igna</b></sub>
+<a href="https://ismedina.vercel.app">
+  <sub><code>&lt;/&gt;</code> created by <b>igna</b></sub>
+</a>
 
 </div>
