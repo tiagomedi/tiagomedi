@@ -38,9 +38,7 @@ nombre:       Ignacio Santiago Medina Díaz
 alias:        igna
 ubicación:    Santiago, Chile 🇨🇱
 estudios:     Ing. Civil Informática y Telecomunicaciones
-# rol_actual:   Memorista en Infraestructura & Redes @ CMDIC
 enfoque:      Cloud Engineering (Azure/AWS) · IaC · FinOps · DevOps
-# objetivo:     Primera posición formal como Cloud Engineer / DevOps Junior
 lema:         ENFOQUE • DISCIPLINA • CONSTANCIA
 ```
 
