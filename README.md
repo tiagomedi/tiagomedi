@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,50:393939,100:00CA4E&height=180&section=header&text=Ignacio%20Santiago%20Medina&fontColor=efefef&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Ing.%20Civil%20Inform%C3%A1tica%20y%20Telecomunicaciones%20(UDP)&descAlignY=60&descSize=16&descColor=00CA4E" width="100%" alt="Ignacio Santiago Medina" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,50:393939,100:00CA4E&height=190&section=header&text=Ignacio%20Santiago%20Medina%20D%C3%ADaz&fontColor=efefef&fontSize=36&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Ing.%20Civil%20Inform%C3%A1tica%20y%20Telecomunicaciones%20%C2%B7%20UDP&descAlignY=58&descSize=14&descColor=00CA4E" width="100%" alt="Ignacio Santiago Medina Díaz" />
 
 <p>
   <a href="https://ismedina.vercel.app/">
@@ -73,7 +73,5 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e1e,100:00CA4E&height=3&section=header&width=100%" width="100%" />
-
-<sub>⚡ Hecho con enfoque, disciplina y constancia</sub>
 
 </div>
