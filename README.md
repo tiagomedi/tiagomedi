@@ -112,7 +112,6 @@
 ![Least Privilege](https://img.shields.io/badge/Least_Privilege-BF7CF6?style=flat-square)
 ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-003A70?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Cybersecurity Framework Law](https://img.shields.io/badge/Cybersecurity_Framework_Law-BF7CF6?style=flat-square)
 
 </td>
 </tr>
