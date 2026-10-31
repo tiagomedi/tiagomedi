@@ -10,23 +10,12 @@
 <div align="center">
 
 <p>
-  <a href="https://ismedina.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/santiagomedinad/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ignacio.mediaz@outlook.com">
-    <img src="https://img.shields.io/badge/Mail-FF605C?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
-  </a>
-  <a href="https://www.credly.com/users/ignacio-santiago-medina">
-    <img src="https://img.shields.io/badge/Credly-FFBD44?style=for-the-badge&logo=credly&logoColor=1e1e1e" alt="Credly" />
-  </a>
+  <a href="https://ismedina.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/santiagomedinad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ignacio.mediaz@outlook.com"><img src="https://img.shields.io/badge/Mail-FF605C?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
+  <a href="https://www.credly.com/users/ignacio-santiago-medina"><img src="https://img.shields.io/badge/Credly-FFBD44?style=for-the-badge&logo=credly&logoColor=1e1e1e" alt="Credly" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br/>
 
 </div>
 
