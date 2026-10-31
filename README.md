@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ignacio.mediaz@outlook.com">
-    <img src="https://img.shields.io/badge/Email-FF605C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Mail-FF605C?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   <a href="https://www.credly.com/users/ignacio-santiago-medina">
     <img src="https://img.shields.io/badge/Credly-FFBD44?style=for-the-badge&logo=credly&logoColor=1e1e1e" alt="Credly" />
