@@ -75,6 +75,7 @@
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Open Code](https://img.shields.io/badge/Open_Code-1e1e1e?style=flat-square&logo=opencode&logoColor=white)
 
 </td>
 </tr>
