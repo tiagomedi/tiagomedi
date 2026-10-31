@@ -1,11 +1,11 @@
-# Hola 👋, soy Ignacio Santiago Medina Díaz
+# Hi 👋, I’m Ignacio Santiago Medina Díaz
 
-### Desarrollador Full Stack | Cloud & DevOps
+### Full Stack Developer | Cloud & DevOps
 
-**Ingeniero Civil en Informática y Telecomunicaciones (UDP)**
+**Civil Engineer in Computer and Telecommunications (UDP)**
 
-- 📄 Conoce mi experiencia en mi [**CV**](https://ismedina.vercel.app/sobre-mi)
-- 👤 Conéctate conmigo en [**LinkedIn**](https://www.linkedin.com/in/santiagomedinad/)
+- 📄 Check my experience in my [**CV**](https://ismedina.vercel.app/sobre-mi)
+- 👤 Connect with me [**LinkedIn**](https://www.linkedin.com/in/santiagomedinad/)
 
 <div align="center">
 
