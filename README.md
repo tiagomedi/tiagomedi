@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://ismedina.vercel.app/">
-    <img src="https://img.shields.io/badge/Portafolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portafolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1e1e1e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/santiagomedinad/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
+<img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-## 🛠️ Stack & Herramientas
+## 🛠️ Tech Stack & Tools
 
 </div>
 
@@ -66,7 +66,7 @@
 <tr>
 <td valign="top" width="50%">
 
-**🗄️ Backend & Bases de Datos**
+**🗄️ Backend & Databases**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -78,7 +78,7 @@
 </td>
 <td valign="top" width="50%">
 
-**🎨 Frontend & Herramientas**
+**🎨 Frontend & Tools**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -91,13 +91,13 @@
 <tr>
 <td valign="top" width="50%">
 
-**🌐 Sistemas & Redes**
+**🌐 Systems & Networking**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Modelo OSI](https://img.shields.io/badge/Modelo_OSI-1e1e1e?style=flat-square)
+![OSI Model](https://img.shields.io/badge/OSI_Model-1e1e1e?style=flat-square)
 ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -105,14 +105,14 @@
 </td>
 <td valign="top" width="50%">
 
-**🔐 Seguridad & Gobernanza**
+**🔐 Security & Governance**
 
 ![FinOps](https://img.shields.io/badge/FinOps-00CA4E?style=flat-square)
 ![Hardening](https://img.shields.io/badge/Hardening-BF7CF6?style=flat-square)
-![Mínimo Privilegio](https://img.shields.io/badge/M%C3%ADnimo_Privilegio-BF7CF6?style=flat-square)
+![Least Privilege](https://img.shields.io/badge/Least_Privilege-BF7CF6?style=flat-square)
 ![ISO/IEC 27001](https://img.shields.io/badge/ISO%2FIEC_27001-003A70?style=flat-square)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![Ley Marco Ciberseguridad](https://img.shields.io/badge/Ley_Marco_Ciberseguridad-BF7CF6?style=flat-square)
+![Cybersecurity Framework Law](https://img.shields.io/badge/Cybersecurity_Framework_Law-BF7CF6?style=flat-square)
 
 </td>
 </tr>
