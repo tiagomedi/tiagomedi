@@ -1,11 +1,11 @@
-# Hi 👋, I'm Ignacio Santiago Medina Díaz
+# Hola 👋, soy Ignacio Santiago Medina Díaz
 
-### Full Stack Developer | Cloud & DevOps
+### Desarrollador Full Stack | Cloud & DevOps
 
-**Computer & Telecommunications Engineer (UDP)**
+**Ingeniero Civil en Informática y Telecomunicaciones (UDP)**
 
-- 📄 Read about my experiences on my [**CV**](https://ismedina.vercel.app/)
-- 👤 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/santiagomedinad/)
+- 📄 Conoce mi experiencia en mi [**CV**](https://ismedina.vercel.app/sobre-mi)
+- 👤 Conéctate conmigo en [**LinkedIn**](https://www.linkedin.com/in/santiagomedinad/)
 
 <div align="center">
 
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=tiagomedi&style=for-the-badge&color=00CA4E&label=VISITAS+AL+PERFIL" alt="Visitas al perfil" />
 
 <br/>
 
